@@ -1,0 +1,140 @@
+{
+  "name": "Network_Operating_Environment",
+  "description": "Apple_US20140171114A1_Fig18_block diagram of an exemplary network operating environment for mobile devices",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "private": false,
+  "details": {
+    "counts": {
+      "termCount": 68,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 1,
+      "glossaryCount": 0
+    },
+    "briefDescriptions": [
+      "<p><span data-role=\"tag\" data-value=\"1b1f2cb1-9a38-4107-07d0-db6d8206248e\" id=\"id49bc30c8-1bae-9713-9e22-2afb06186463\" data-type=\"figure\">Figure 1</span>&nbsp; is a <span data-role=\"tag\" data-value=\"786ef5ef-8285-634d-f25c-e435bc8c3fe3\" id=\"id93dcd221-9b37-3276-2fbb-17dc3e759f99\" data-type=\"term\">block diagram</span> of an exemplary <span data-role=\"tag\" data-value=\"f9a8cce0-498b-9136-d1cc-fe1337b25330\" id=\"id42a4b18d-f655-0cc4-ce61-77ea339c892c\" data-type=\"term\">network operating environment</span> for mobile devices</p>"
+    ],
+    "parts": [
+      {
+        "name": "network operating environment",
+        "number": 100
+      },
+      {
+        "name": "wired and/or wireless network(s)",
+        "number": 102
+      },
+      {
+        "name": "wide area network",
+        "number": 104
+      },
+      {
+        "name": "access device",
+        "number": 106
+      },
+      {
+        "name": "gateway",
+        "number": 108
+      },
+      {
+        "name": "wireless network",
+        "number": 110
+      },
+      {
+        "name": "mobile device(s) a",
+        "number": 112
+      },
+      {
+        "name": "mobile device(s) b",
+        "number": 114
+      },
+      {
+        "name": "peer-to-peer communications",
+        "number": 116
+      },
+      {
+        "name": "location service(s)",
+        "number": 118
+      },
+      {
+        "name": "map service",
+        "number": 120
+      }
+    ],
+    "terms": [
+      "wide area network (WAN)",
+      "communication access",
+      "such access",
+      "web browsing function or application",
+      "blogs",
+      "browser",
+      "buildings",
+      "phone calls",
+      "communicate",
+      "communications",
+      "communication",
+      "data communication",
+      "voice and data communications",
+      "peer-to-peer communications",
+      "personal computer",
+      "configuration",
+      "location fingerprint data",
+      "access device",
+      "wireless device",
+      "block diagram",
+      "electronic documents",
+      "example",
+      "FIGS",
+      "gateway",
+      "implementations",
+      "internet",
+      "invention",
+      "invocation",
+      "maps",
+      "provide maps",
+      "e-mail messages",
+      "various modifications",
+      "personal area network",
+      "wide area network",
+      "cellular network",
+      "developer networks",
+      "wired and/or wireless network(s)",
+      "number",
+      "web object",
+      "web pages",
+      "photographs",
+      "User Datagram Protocol",
+      "Internet Protocol",
+      "Transmission Control Protocol/Internet Protocol",
+      "Post Office Protocol",
+      "content publishers",
+      "response",
+      "spirit and scope",
+      "map service",
+      "social networking sites",
+      "news sites",
+      "web sites",
+      "electronic documents and/or streams",
+      "structures",
+      "surveys",
+      "Simple Syndication",
+      "topologies",
+      "user touching",
+      "venues",
+      "venue",
+      "videos",
+      "voice",
+      "VoIP",
+      "network operating environment",
+      "wireless network",
+      "mobile device(s) a",
+      "mobile device(s) b",
+      "location service(s)"
+    ],
+    "glossary": []
+  },
+  "repository": "https://github.com/TurboPatent/Network_Operating_Environment"
+}
