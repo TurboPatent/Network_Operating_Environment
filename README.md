@@ -1,0 +1,2 @@
+# Network_Operating_Environment
+Apple_US20140171114A1_Fig18_block diagram of an exemplary network operating environment for mobile devices
